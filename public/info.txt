@@ -1,0 +1,21 @@
+Airline flight management system
+
+I would like to make on Ruby with Ruby on Rails, a system to manage flight tickets. The description is listed below. Please don't give me any code as the objective is to make a project with my knowledge for my portfolio. If I need code I  will ask for it. Now make this document more detail and tell me if it is possbile to develop this system on Ruby, give me tips and best practises I should use for this project.
+
+Admin:
+
+Search flights
+- Add flights (flight number, ticket price, location, destination, date, time, airport, gate)
+- update flights
+- delete flights
+- add passengers to a flight (in a speficic row and number or random selection)
+
+Passenger:
+- search flights
+- buy flights (payment is not necessary)
+
+Other info:
+- Locations are already pre-determined. So admin will just - click and select from a list of destinations.
+- airplane has rows A - K
+- Seats: each row has 6 seats (E.G: A1, A2, A3, A4 , A5 ,A6)
+
