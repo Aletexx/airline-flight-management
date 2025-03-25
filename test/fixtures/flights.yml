@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  flight_number: MyString
+  price: 9.99
+  location: MyString
+  destination: MyString
+  date: 2025-03-25
+  time: 2025-03-25 19:00:38
+  airport: MyString
+  gate: MyString
+  boooking_reference: MyString
+
+two:
+  flight_number: MyString
+  price: 9.99
+  location: MyString
+  destination: MyString
+  date: 2025-03-25
+  time: 2025-03-25 19:00:38
+  airport: MyString
+  gate: MyString
+  boooking_reference: MyString
